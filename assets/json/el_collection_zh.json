@@ -1,0 +1,8 @@
+[
+    {"EL_id":0, "EL_tag":"标题","category":0}, 
+    {"EL_id":1, "EL_tag":"轴","category":0}, 
+    {"EL_id":2, "EL_tag":"数据","category":0}, 
+    {"EL_id":3, "EL_tag":"图例","category":0},
+    {"EL_id":4, "EL_tag":"说明文字","category":0},
+    {"EL_id":5, "EL_tag":"背景","category":0}
+]

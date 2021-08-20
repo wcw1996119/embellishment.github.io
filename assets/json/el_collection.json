@@ -1,0 +1,8 @@
+[
+    {"EL_id":0, "EL_tag":"Title","category":0}, 
+    {"EL_id":1, "EL_tag":"Chart axis","category":0}, 
+    {"EL_id":2, "EL_tag":"Chart marks","category":0}, 
+    {"EL_id":3, "EL_tag":"Chart legends","category":0},
+    {"EL_id":4, "EL_tag":"Caption","category":0},
+    {"EL_id":5, "EL_tag":"Background","category":0}
+]

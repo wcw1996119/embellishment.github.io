@@ -1,0 +1,898 @@
+[
+    {
+        "card_id": 1,
+        "card_title": "改变目标样式",
+        "VNS_tag": "exploration",
+        "EL_tag": "填充纯色",
+        "how": "为装饰目标填充纯色。",
+        "why": "它能够通过区分样式展现数据洞见，并给出有关下一步探究的提示。",
+        "eg_content":["title","chart-axis","chart-marks","chart-legends","caption","background"],
+        "eg_back_data":[           
+            {"OBJECT": "Title","TITLE": "Elected Officials Pay Too Little Attention to Technology Issues","SOURCE": "Behance","url":"https://www.behance.net/gallery/93899355/GALLUP-KNIGHT-FOUNDATION-Techlash/modules/542549453"},
+            {"OBJECT": "Chart axis","TITLE":"A Simple Timeline of China’s Economic Development","SOURCE":"Dailyinfographic","url":"https://www.dailyinfographic.com/chinese-economics"},
+            {"OBJECT": "Chart marks","TITLE":"Total Number of Votes for each Leadership Candidate","SOURCE":"BBC","url":"https://twitter.com/BBCPolitics/status/1141682737960685569"},
+            {"OBJECT": "Chart legends","TITLE":"A Month Before the Olympics, How Is Japan Faring With Covid?","SOURCE":"The New York Times","url":"https://www.nytimes.com/interactive/2021/06/23/world/asia/japan-coronavirus-olympics.html"},
+            {"OBJECT": "Caption","TITLE":"California Initiative Breeds Infertility into Mosquitoes, Cutting Their Numbers","SOURCE":"Beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/1271-mosquito-control/"},
+            {"OBJECT": "Background","TITLE":"One Nation Under Hops","SOURCE":"Dailyinfographic","url":"https://www.dailyinfographic.com/one-nation-under-hops-infographic"}
+        ]
+    },
+    {
+        "card_id": 2,
+        "card_title": "改变目标样式",
+        "VNS_tag": "exploration",
+        "EL_tag": "填充渐变",
+        "how": "为装饰目标填充渐变颜色.",
+        "why": "它能够通过区分样式展现数据洞见，并给出有关下一步探究的提示。",
+        "eg_content":["title","chart-axis","chart-marks","chart-legends","background"],
+        "eg_back_data":[
+            {"OBJECT":"Title","TITLE":"A Simple Timeline of China’s Economic Development","SOURCE":"Dailyinfographic","url":"https://www.dailyinfographic.com/chinese-economics"},   
+            {"OBJECT":"Chart axis","TITLE":"A 100° Biodegradabie, Comfortable Sanitary Has Been Developed","SOURCE":"Beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/958-biodegradable-pad/"},
+            {"OBJECT":"Chart marks","TITLE":"What Does the Path to Fame Look Like?","SOURCE":"The Pudding", "url":"https://pudding.cool/2018/10/wiki-breakout/"},
+            {"OBJECT":"Chart legends","TITLE":"Major Remittance Flows Across the Globe","SOURCE":"Postgraphics","url":"https://twitter.com/PostGraphics/status/1312845872158441472/photo/1"},
+            {"OBJECT":"Background","TITLE":"Europe Could Power the Entire World with Wind","SOURCE":"Beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/1111-europe-wind-power/"}
+        ]
+    },
+    {
+        "card_id": 3,
+        "card_title": "改变目标样式",
+        "VNS_tag": "exploration",
+        "EL_tag": "轮廓描边",
+        "how": "在边缘处添加描边线条。",
+        "why": "它能够通过区分样式展现数据洞见，并给出有关下一步探究的提示。",
+        "eg_content":["title","chart-marks","chart-legends","caption","background"],
+        "eg_back_data":[
+            {"OBJECT":"Title","TITLE":"I do not buy that the (J&J vaccine) pause was a good idea","SOURCE":"Fivethirtyeight","url":"https://www.youtube.com/watch?v=ejYmIk-cJ_k"},
+            {"OBJECT":"Chart marks","TITLE":"South and West to Gain Power in House of Representatives, Expected to Favor Republicans","SOURCE":"WSJ Graphics","url":"https://twitter.com/WSJGraphics/status/1387234209924849664"},
+            {"OBJECT":"Chart legends","TITLE":"When Will Your Parents Die? The Factors That Make the Difference in America","SOURCE":"The Guardian","url":"https://www.theguardian.com/news/datablog/2020/jan/19/poor-and-black-americans-more-likely-to-experience-death-parent-younger-age?utm_source=dlvr.it&utm_medium=twitter"},
+            {"OBJECT":"Caption","TITLE":"What Makes LeBron James So Great","SOURCE":"Fivethirtyeight","url":"https://www.youtube.com/watch?v=zwOoSoZgsD0"},
+            {"OBJECT":"Background","TITLE":"Children and the Sustainable Development Goals.","SOURCE":"Unicef","url":"https://www.rightcolours.com/projects/unicef-children-and-the-sustainable-development-goals"}
+        ]
+    },
+    {
+        "card_id": 4,
+        "card_title": "改变目标样式",
+        "VNS_tag": "exploration",
+        "EL_tag": "改变透明度",
+        "how": "增加其他元素的透明度，以此来凸显装饰目标。",
+        "why": "它能够通过区分样式展现数据洞见，并给出有关下一步探究的提示。",
+        "eg_content":["title","chart-axis","chart-marks","chart-legends","caption","background"],
+        "eg_back_data":[
+            {"OBJECT":"Title","TITLE":"New Plant-Based Plastic Bottles Will Degrade in One Year","SOURCE":"Beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/1334-plant-based-plastic-bottle/"},
+            {"OBJECT":"Chart axis","TITLE":"2020 was the deadliest gun violence year in decades. So far, 2021 is worse.","SOURCE":"Postgraphics","url":"https://www.washingtonpost.com/nation/2021/06/14/2021-gun-violence/?utm_medium=social&utm_source=twitter&utm_campaign=wp_graphics"},
+            {"OBJECT":"Chart marks","TITLE":"Biofortified Cassava Is Set to Transform the House of Millions","SOURCE":"Beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/1165-cassava-nutrition/"},
+            {"OBJECT":"Chart legends","TITLE":"Biden Cabinet Secretaries' Comfirmation So Far","SOURCE":"Beautifulnews","url":"https://twitter.com/PostGraphics/status/1356715459618484224/photo/1"},
+            {"OBJECT":"Caption","TITLE":"Biodiversity is Flourishing in the Thames","SOURCE":"Beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/144-biodiversity-river-thames/"},
+            {"OBJECT":"Background","TITLE":"Money Spent on Disadvantaged Kids Is a Great Long-term Investment","SOURCE":"Beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/1335-childhood-programs/"}
+        ]
+    },
+    {
+        "card_id": 5,
+        "card_title": "改变目标样式",
+        "VNS_tag": "exploration",
+        "EL_tag": "填充纹理",
+        "how": "为装饰目标填充纹理。也可以指文本的字体、粗细变化。",
+        "why": "它能够通过区分样式展现数据洞见，并给出有关下一步探究的提示。",
+        "eg_content":["title","chart-marks","chart-legends","caption","background"],
+        "eg_back_data":[
+            {"OBJECT":"Title","TITLE":"The Winners: Politics & Global","SOURCE":"Imformation is Beautiful","url":"https://www.informationisbeautifulawards.com/news/531-the-winners-politics-global"},
+            {"OBJECT":"Chart marks","TITLE":"Cannabis Entrepreneurs, Celebrity Investors Light Up as Legalization Blooms","SOURCE":"Reuters","url":"https://graphics.reuters.com/CANNABIS-TECH/qzjpqlwgqvx/index.html"},
+            {"OBJECT":"Chart legends","TITLE":"The Fed Shifts Into Neutral","SOURCE":"Reuters","url":"https://graphics.reuters.com/USA-FED-NEUTRAL/0100710J22Z/index.html"},
+            {"OBJECT":"Caption","TITLE":"2020 was the deadliest gun violence year in decades. So far, 2021 is worse.","SOURCE":"Postgraphics","url":"https://www.washingtonpost.com/nation/2021/06/14/2021-gun-violence/?utm_medium=social&utm_source=twitter&utm_campaign=wp_graphics"},
+            {"OBJECT":"Background","TITLE":"Does The Road To The Stanley Cup Lead Through Florida … Again?","SOURCE":"Fivethirtyeight","url":"https://fivethirtyeight.com/features/does-the-road-to-the-stanley-cup-lead-through-florida-again/"}
+        ]
+    },
+    {
+        "card_id": 6,
+        "card_title": "改变目标样式",
+        "VNS_tag": "exploration",
+        "EL_tag": "添加阴影",
+        "how": "在装饰目标周围添加阴影。",
+        "why": "它能够通过区分样式展现数据洞见，并给出有关下一步探究的提示。",
+        "eg_content":["title","chart-axis","chart-marks","caption","background"],
+        "eg_back_data":[
+            {"OBJECT":"Title","TITLE":"Older Voters in Florida Could Be Key to the 2020 Election","SOURCE":"WSJ Graphics","url":"https://www.wsj.com/graphics/election-2020-florida-older-voters/?mod=e2twg"},
+            {"OBJECT":"Chart axis","TITLE":"Data Cuisine","SOURCE":"Imformation is Beautiful","url":"https://www.informationisbeautifulawards.com/news/222-the-categories-unusual"},
+            {"OBJECT":"Chart marks","TITLE":"Three landings and a take-off","SOURCE":"Economist","url":"https://www.economist.com/graphic-detail/2018/02/06/three-landings-and-a-take-off"},
+            {"OBJECT":"Caption","TITLE":"Did The First Five Public Impeachment Hearings Change Anyone's Mind?","SOURCE":"Fivethirtyeight","url":"https://www.youtube.com/watch?v=kqkjK3A8YtE"},
+            {"OBJECT":"Background","TITLE":"(Trump) may be discouraging turnout within his own party","SOURCE":"Fivethirtyeight","url":"https://www.youtube.com/watch?v=wmmBV8ZSYzI"}
+        ]
+    },
+    {
+        "card_id": 7,
+        "card_title": "改变目标样式",
+        "VNS_tag": "exploration",
+        "EL_tag": "切分对象",
+        "how": "将装饰对象切分为多个部分。",
+        "why": "它能够通过区分样式展现数据洞见，并给出有关下一步探究的提示。",
+        "eg_content":["chart-axis","chart-marks","background"],
+        "eg_back_data":[
+            {"OBJECT":"Chart axis","TITLE":"The Naked Truth","SOURCE":"The Pudding","url":"https://pudding.cool/2021/03/foundation-names/"},
+            {"OBJECT":"Chart marks","TITLE":"Trashtag Challenge Was a Huge Success","SOURCE":"Beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/1296-trashtag/"},
+            {"OBJECT":"Background","TITLE":"Laws to Protect Animals&Pets Are Becoming More Widespread","SOURCE":"Beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/387-banned-puppy-sales/"}
+
+        ]
+    },
+    {
+        "card_id": 8,
+        "card_title": "改变目标样式",
+        "VNS_tag": "exploration",
+        "EL_tag": "改变形状",
+        "how": "将装饰目标改变为另一个形状。",
+        "why": "它能够通过区分样式展现数据洞见，并给出有关下一步探究的提示。",
+        "eg_content": ["chart-axis","chart-marks","chart-legends","caption","background"],
+        "eg_back_data":[
+            {"OBJECT":"Chart axis","TITLE":"Major Fashion Brands Are Going Fur-Free","SOURCE":"Beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/122-fur-free-fashion/"},
+            {"OBJECT":"Chart marks","TITLE":"Over Two Billion More People Have Gained Access to Improved Sanitation","SOURCE":"Beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/464-improved-sanitation/"},
+            {"OBJECT":"Chart legends","TITLE":"20 million Americans didn’t vote in 2016′s closest battlegrounds","SOURCE":"Postgraphics","url":"https://twitter.com/PostGraphics/status/1323405807107612673/photo/1"},
+            {"OBJECT":"Caption","TITLE":"Film Or Digital?","SOURCE":"The Pudding","url":"https://pudding.cool/2018/08/filmordigital/"},
+            {"OBJECT":"Background","TITLE":"There are Already More Than 34000km of Plastic Roads in India","SOURCE":"Beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/770-india-plastic-roads/"}
+        ]      
+    },
+    {
+        "card_id": 9,
+        "card_title": "添加视觉辅助",
+        "VNS_tag": "outlier",
+        "EL_tag": "添加指引线标注",
+        "how": "为装饰目标添加指引线标注。",
+        "why": "它能够通过额外元素吸引注意力，并且视觉样式丰富，突出展示需要强调的元素。",
+        "eg_content": ["chart-axis","chart-marks","caption"],
+        "eg_back_data":[
+            {"OBJECT":"Chart axis","TITLE":"The sheep that changed the world","SOURCE":"Economist","url":"https://www.economist.com/graphic-detail/2017/02/17/the-sheep-that-changed-the-world"},
+            {"OBJECT":"Chart marks","TITLE":"Why biggest isn’t fastest in the animal kingdom","SOURCE":"Economist","url":"https://www.economist.com/graphic-detail/2017/07/26/why-biggest-isnt-fastest-in-the-animal-kingdom"},
+            {"OBJECT":"Caption","TITLE":"The Naked Truth","SOURCE":"The Pudding","url":"https://pudding.cool/2021/03/foundation-names/"}
+        ]
+    },
+    {
+        "card_id": 10,
+        "card_title": "添加视觉辅助",
+        "VNS_tag": "outlier",
+        "EL_tag": "添加圆圈",
+        "how": "在装饰重点添加圆圈。",
+        "why": "它能够通过额外元素吸引注意力，并且视觉样式丰富，突出展示需要强调的元素。",
+        "eg_content": ["chart-axis","chart-marks","caption","background"],
+        "eg_back_data":[
+            {"OBJECT":"Chart axis","TITLE":"Republicans Can Govern Without Winning A Majority. That Threatens Our Democracy","SOURCE":"Fivethirtyeight","url":"https://www.youtube.com/watch?v=li-n4l_474g"},
+            {"OBJECT":"Chart marks","TITLE":"The Electoral College, explained","SOURCE":"Vox","url":"https://www.youtube.com/watch?v=ajavsMbCapY&list=PLJ8cMiYb3G5eKjlXtsOo6SDi2ZvcHQ69q"},
+            {"OBJECT":"Caption","TITLE":"What Makes LeBron James So Great","SOURCE":"Fivethirtyeight","url":"https://www.youtube.com/watch?v=zwOoSoZgsD0"},
+            {"OBJECT":"Background","TITLE":"Counting The Cost in Gaza","SOURCE":"Reuters","url":"https://graphics.reuters.com/ISRAEL-PALESTINIANS/GAZA/azgpoozagpd/index.html"}
+        ]
+    },
+    {
+        "card_id": 11,
+        "card_title": "添加视觉辅助",
+        "VNS_tag": "outlier",
+        "EL_tag": "添加色块",
+        "how": "在装饰目标背后添加色块。",
+        "why": "它能够通过额外元素吸引注意力，并且视觉样式丰富，突出展示需要强调的元素。",
+        "eg_content": ["title","chart-axis","chart-marks","caption"],
+        "eg_back_data":[
+            {"OBJECT":"Title","TITLE":"Taiwan has become the first Asian Country to Legalise Same-sex Marriage","SOURCE":"Beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/35-taiwan-marriage-equality/"},
+            {"OBJECT":"Chart axis","TITLE":"The Fed Shifts Into Neutral","SOURCE":"Reuters","url":"https://graphics.reuters.com/USA-FED-NEUTRAL/0100710J22Z/index.html"},
+            {"OBJECT":"Chart marks","TITLE":"A Simple Timeline of China’s Economic Development","SOURCE":"Dailyinfographic","url":"https://www.dailyinfographic.com/chinese-economics"},
+            {"OBJECT":"Caption","TITLE":"The Structure of Stand-Up Comedy","SOURCE":"The Pudding","url":"https://pudding.cool/2018/02/stand-up/"}
+        ]
+    },
+    {
+        "card_id": 12,
+        "card_title": "添加视觉辅助",
+        "VNS_tag": "outlier",
+        "EL_tag": "添加参考线",
+        "how": "在装饰目标上方或周围添加参考线。",
+        "why": "它能够通过额外元素吸引注意力，并且视觉样式丰富，突出展示需要强调的元素。",
+        "eg_content": ["title","chart-marks","caption"],
+        "eg_back_data":[
+            {"OBJECT":"Title","TITLE":"51% of Americans approve of the president","SOURCE":"Reuters","url":"https://graphics.reuters.com/USA-BIDEN/POLL/nmopagnqapa/index.html"},
+            {"OBJECT":"Chart marks","TITLE":"Gunnison Valley Economic Recovery Dashboard","SOURCE":"Infogram","url":"https://infogram.com/gunni-dashboard-v03-1hkv2nr3ypkp4x3"},
+            {"OBJECT":"Caption","TITLE":"How Many Artists Overshadow Their Band After Going Solo?","SOURCE":"The Pudding","url":"https://pudding.cool/2021/04/solo/"}
+        ]
+    },
+    {
+        "card_id": 13,
+        "card_title": "添加视觉辅助",
+        "VNS_tag": "outlier",
+        "EL_tag": "添加区间线框",
+        "how": "用线框限定所要装饰的目标区间。",
+        "why": "它能够通过额外元素吸引注意力，并且视觉样式丰富，突出展示需要强调的元素。",
+        "eg_content": ["title","chart-axis","chart-marks","caption","background"],
+        "eg_back_data":[
+            {"OBJECT":"Title","TITLE":"Children and the Sustainable Development Goals.","SOURCE":"Unicef","url":"https://www.rightcolours.com/projects/unicef-children-and-the-sustainable-development-goals"},
+            {"OBJECT":"Chart axis","TITLE":"The Naked Truth","SOURCE":"The Pudding","url":"https://pudding.cool/2021/03/foundation-names/"},
+            {"OBJECT":"Chart marks","TITLE":"Biden nominated as many minority women to be judges in four months as Trump had confirmed in four years","SOURCE":"Postgraphics","url":"https://twitter.com/PostGraphics/status/1406355133156442116/photo/1"},
+            {"OBJECT":"Caption","TITLE":"Women's Pockets are Inferior.","SOURCE":"The Pudding","url":"https://pudding.cool/2018/08/pockets/"},
+            {"OBJECT":"Background","TITLE":"Early Detection of Cervical Cancer Has Never Been So Accurate","SOURCE":"Beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/723-cervical-cancer-test/"}
+        ]
+    },
+    {
+        "card_id": 14,
+        "card_title": "添加视觉辅助",
+        "VNS_tag": "outlier",
+        "EL_tag": "添加透明区间",
+        "how": "用半透明色块限定所要装饰的目标区间。",
+        "why": "它能够通过额外元素吸引注意力，并且视觉样式丰富，突出展示需要强调的元素。",
+        "eg_content": ["chart-marks","chart-legends","caption","background"],
+        "eg_back_data":[
+            {"OBJECT":"Chart marks","TITLE":"The Naked Truth","SOURCE":"The Pudding","url":"https://pudding.cool/2021/03/foundation-names/"},
+            {"OBJECT":"Chart legends","TITLE":"Healthy Life Expectancy is Increasing in Almost Every Country 2000-2016","SOURCE":"Beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/680-healthy-life-expectancy/"},
+            {"OBJECT":"Caption","TITLE":"American History-Alcohol ","SOURCE":"Pinterest","url":"https://www.pinterest.com/pin/374854368978085187/"},
+            {"OBJECT":"Background","TITLE":"What Happened To The Polls In 2016 — And What You Should Know About Them In 2020","SOURCE":"Fivethirtyeight","url":"https://www.youtube.com/watch?v=TambSayfCOE"}
+        ]
+    },
+    {
+        "card_id": 15,
+        "card_title": "突出目标数值",
+        "VNS_tag": "outlier",
+        "EL_tag": "改变透明度",
+        "how": "增加其他元素的透明度。",
+        "why": "颜色的深浅差异会让人们的视觉聚焦到颜色较深的事物上。",
+        "eg_content": ["title","chart-axis","chart-marks","caption","background"],
+        "eg_back_data":[
+            {"OBJECT":"Title","TITLE":"Renewable Energy Superstars","SOURCE":"Beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/10-renewable-energy-stars/"},
+            {"OBJECT":"Chart axis","TITLE":"Italian general election poll tracker","SOURCE":"Economist","url":"https://www.economist.com/graphic-detail/2018/01/30/italian-general-election-poll-tracker"},
+            {"OBJECT":"Chart marks","TITLE":"Livestock Fed Seaweed Emit Less Methane","SOURCE":"Beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/1133-livestock-fed-seaweed/"},
+            {"OBJECT":"Caption","TITLE":"Combining Solar Panel Technologies Could Boost Energy Production by a Third","SOURCE":"Beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/1343-super-solar-panels/"},
+            {"OBJECT":"Background","TITLE":"UK Teen Pregnancies Hit a Record Low","SOURCE":"Beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/497-uk-teen-pregnancy/"}
+        ]
+    },
+    {
+        "card_id": 16,
+        "card_title": "放大目标元素",
+        "VNS_tag": "outlier",
+        "EL_tag": "放大文字元素",
+        "how": "放大文字元素。",
+        "why": "它能够帮助展示细节，有时也可以展示下一层级的信息。",
+        "eg_content": ["title","chart-axis","chart-marks","caption"],
+        "eg_back_data":[
+            {"OBJECT":"Title","TITLE":"Pfizer, BioNTech Covid-19 Vaccine Is Authorized in the U.S.","SOURCE":"WSJ Graphics","url":"https://twitter.com/WSJGraphics/status/1337761351620567041"},
+            {"OBJECT":"Chart axis","TITLE":"What Does the Path to Fame Look Like?","SOURCE":"The Pudding","url":"https://pudding.cool/2018/10/wiki-breakout/"},
+            {"OBJECT":"Chart marks","TITLE":"I do not buy that the (J&J vaccine) pause was a good idea","SOURCE":"Fivethirtyeight","url":"https://www.youtube.com/watch?v=ejYmIk-cJ_k"},
+            {"OBJECT":"Caption","TITLE":"Key Features of the Spike Protein","SOURCE":"WSJ Graphics","url":"https://twitter.com/WSJGraphics/status/1363921355603914754"}
+        ]
+    },
+    {
+        "card_id": 17,
+        "card_title": "放大目标元素",
+        "VNS_tag": "outlier",
+        "EL_tag": "放大视觉辅助元素",
+        "how": "放大视觉辅助元素。",
+        "why": "它能够帮助展示细节，有时也可以展示下一层级的信息。",
+        "eg_content": ["chart-axis","chart-marks","chart-legends","caption","background"],
+        "eg_back_data":[
+            {"OBJECT":"Chart axis","TITLE":"Why biggest isn’t fastest in the animal kingdom","SOURCE":"Economist","url":"https://www.economist.com/graphic-detail/2017/07/26/why-biggest-isnt-fastest-in-the-animal-kingdom"},
+            {"OBJECT":"Chart marks","TITLE":"3,121 Desperate Journeys: Exposing A Week Of Chaos Under Trump's Zero Tolerance","SOURCE":"Imformation is Beautiful","url":"https://www.informationisbeautifulawards.com/news/431-the-shortlist-humanitarian"},
+            {"OBJECT":"Chart legends","TITLE":"Where Are You Most Likely To Spot UFOs?","SOURCE":"Dailyinfographic","url":"https://www.dailyinfographic.com/ufo-sightings-ranked"},
+            {"OBJECT":"Caption","TITLE":"Tiere In Zahlen","SOURCE":"Behance","url":"https://www.behance.net/gallery/117973643/KULTURAUSTAUSCH-Tiere-In-Zahlen"},
+            {"OBJECT":"Background","TITLE":"UK Teen Pregnancies Hit a Record Low","SOURCE":"Beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/497-uk-teen-pregnancy/"}
+        ]
+    },
+    {
+        "card_id": 18,
+        "card_title": "放大目标元素",
+        "VNS_tag": "outlier",
+        "EL_tag": "放大图表元素",
+        "how": "放大图表元素。",
+        "why": "它能够帮助展示细节，有时也可以展示下一层级的信息。",
+        "eg_content": ["chart-marks"],
+        "eg_back_data":[
+            {"OBJECT":"Chart marks","TITLE":"Rhythm of Food","SOURCE":"Imformation is Beautiful","url":"https://www.informationisbeautifulawards.com/news/268-the-winners-sports-games-leisure"}
+        ]
+    },
+    {
+        "card_id": 19,
+        "card_title": "排版强调差异",
+        "VNS_tag": "difference",
+        "EL_tag": "叠加展示差异",
+        "how": "将数据元素叠加展示。常使用底对齐和居中对齐手法。",
+        "why": "它能够通过体量直观展示元素之间的对比，有很强的视觉冲击效果，同时节省空间。",
+        "eg_content": ["chart-marks"],
+        "eg_back_data":[
+            {"OBJECT":"Chart marks","TITLE":"New Plant-Based Plastic Bottles Will Degrade in One Year","SOURCE":"Beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/1334-plant-based-plastic-bottle/"}
+        ]
+    },
+    {
+        "card_id": 20,
+        "card_title": "添加视觉辅助",
+        "VNS_tag": "categorization",
+        "EL_tag": "叠加轮廓以划分区域",
+        "how": "叠加轮廓以划分区域。",
+        "why": "它能够借助额外元素来划分区域，展现分类属性。",
+        "eg_content": ["chart-axis","chart-marks","background"],
+        "eg_back_data":[
+            {"OBJECT":"Chart axis","TITLE":"A key White House post remains unfilled: First Pet","SOURCE":"Economist","url":"https://www.economist.com/graphic-detail/2017/07/17/a-key-white-house-post-remains-unfilled-first-pet"},
+            {"OBJECT":"Chart marks","TITLE":"Mammoth urban clusters are sprouting up all over China","SOURCE":"Economist","url":"https://www.economist.com/graphic-detail/2018/06/26/mammoth-urban-clusters-are-sprouting-up-all-over-china"},
+            {"OBJECT":"Background","TITLE":"Who does the most in your household?","SOURCE":"Economist","url":"https://www.economist.com/graphic-detail/2017/10/05/who-does-the-most-in-your-household"}
+        ]
+    },
+    {
+        "card_id": 21,
+        "card_title": "添加视觉辅助",
+        "VNS_tag": "categorization",
+        "EL_tag": "叠加纯色填充以展示分类",
+        "how": "叠加纯色填充以展示分类。",
+        "why": "它能够借助额外元素来划分区域，展现分类属性。",
+        "eg_content": ["chart-axis","chart-marks","caption","background"],
+        "eg_back_data":[
+            {"OBJECT":"Chart axis","TITLE":"A Simple Timeline of China’s Economic Development","SOURCE":"Dailyinfographic","url":"https://www.dailyinfographic.com/chinese-economics"},
+            {"OBJECT":"Chart marks","TITLE":"One-Hit Wonders in Sports","SOURCE":"The Pudding","url":"https://pudding.cool/2018/04/one-hit-wonders/"},
+            {"OBJECT":"Caption","TITLE":"One Nation Under Hops","SOURCE":"Dailyinfographic","url":"https://www.dailyinfographic.com/one-nation-under-hops-infographic"},
+            {"OBJECT":"Background","TITLE":"Are alpha males worse investors?","SOURCE":"Economist","url":"https://www.economist.com/graphic-detail/2018/02/20/are-alpha-males-worse-investors"}
+        ]
+    },
+    {
+        "card_id": 22,
+        "card_title": "添加视觉辅助",
+        "VNS_tag": "categorization",
+        "EL_tag": "叠加透明填充以对应分类",
+        "how": "叠加透明填充以对应分类。",
+        "why": "它能够借助额外元素来划分区域，展现分类属性。",
+        "eg_content": ["chart-marks","background"],
+        "eg_back_data":[
+            {"OBJECT":"Chart marks","TITLE":"The market for unwanted gift vouchers","SOURCE":"Economist","url":"https://www.economist.com/graphic-detail/2016/12/29/the-market-for-unwanted-gift-vouchers"},
+            {"OBJECT":"Background","TITLE":"51% of Americans approve of the president","SOURCE":"Reuters","url":"https://graphics.reuters.com/USA-BIDEN/POLL/nmopagnqapa/index.html"}
+        ]
+    },
+    {
+        "card_id": 23,
+        "card_title": "添加视觉辅助",
+        "VNS_tag": "distribution",
+        "EL_tag": "添加遮挡图形",
+        "how": "添加遮挡图形以省略次要区域，突出顶端。",
+        "why": "它能够通过额外元素吸引注意力，并且视觉样式丰富，突出展示需要强调的元素。",
+        "eg_content": ["chart-marks"],
+        "eg_back_data":[
+            {"OBJECT":"Chart marks","TITLE":"How Rigid Is The Middle Class in The US, Really?","SOURCE":"The Pudding","url":"https://pudding.cool/2020/08/income/"}
+        ]
+    },
+    {
+        "card_id": 24,
+        "card_title": "添加视觉辅助",
+        "VNS_tag": "distribution",
+        "EL_tag": "添加参考线",
+        "how": "添加能够描绘分布的参考线",
+        "why": "它能够通过额外元素吸引注意力，并且视觉样式丰富，突出展示需要强调的元素。",
+        "eg_content": ["chart-marks"],
+        "eg_back_data":[
+            {"OBJECT":"Chart marks","TITLE":"The Naked Truth","SOURCE":"The Pudding","url":"https://pudding.cool/2021/03/foundation-names/"}
+        ]
+    },
+    {
+        "card_id": 25,
+        "card_title": "添加视觉辅助",
+        "VNS_tag": "distribution",
+        "EL_tag": "添加标志",
+        "how": "添加标志吸引注意力，以此强调顶端。",
+        "why": "它能够通过额外元素吸引注意力，并且视觉样式丰富，突出展示需要强调的元素。",
+        "eg_content":["chart-axis","chart-marks"],
+        "eg_back_data":[
+            {"OBJECT":"Chart axis","TITLE":"A Simple Timeline of China’s Economic Development","SOURCE":"Dailyinfographic","url":"https://www.dailyinfographic.com/chinese-economics"},
+            {"OBJECT":"Chart marks","TITLE":"David Cameron is Britain’s most disliked politician","SOURCE":"Economist","url":"https://www.economist.com/graphic-detail/2019/09/18/david-cameron-is-britains-most-disliked-politician"}
+        ]
+    },
+    {
+        "card_id": 26,
+        "card_title": "排版展示分布",
+        "VNS_tag": "distribution",
+        "EL_tag": "在边界内排布",
+        "how": "将元素在边界内按一定规律排布。",
+        "why": "它能够提升图面的规律性，从而能够更直观地展示分布。",
+        "eg_content":["chart-marks"],
+        "eg_back_data":[
+            {"OBJECT":"Chart marks","TITLE":"Statsministerens nyttårstale","SOURCE":"Infogram","url":"https://infogram.com/52e8d58c-8448-4150-959e-6b4202542e23"}
+        ]
+    },
+    {
+        "card_id": 27,
+        "card_title": "排版展示分布",
+        "VNS_tag": "distribution",
+        "EL_tag": "沿着边缘依次排布",
+        "how": "将元素沿着边缘依次排布。",
+        "why": "它能够提升图面的规律性，从而能够更直观地展示分布。",
+        "eg_content":["chart-axis"],
+        "eg_back_data":[
+            {"OBJECT":"Chart axis","TITLE":"Rhythm of Food","SOURCE":"Imformation is Beautiful","url":"https://www.informationisbeautifulawards.com/news/268-the-winners-sports-games-leisure"}
+        ]
+    },
+    {
+        "card_id": 28,
+        "card_title": "加强序列化呈现",
+        "VNS_tag": "trend",
+        "EL_tag": "填充渐变色",
+        "how": "为装饰目标填充渐变色。",
+        "why": "它能够提供有关趋势的心理图式。",
+        "eg_content":["title","chart-axis","chart-marks","chart-legends","caption","background"],
+        "eg_back_data":[
+            {"OBJECT":"Title","TITLE":"Barack Obama and John McCain have raised millions of dollars for their presidential campaign","SOURCE":"Pinterest","url":"https://www.pinterest.com/pin/449445237791798224/"},
+            {"OBJECT":"Chart axis","TITLE":"The Response to the 2009 Swine Flu Pandemic Was the Fastest in History","SOURCE":"Beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/200-H1N1-response/"},
+            {"OBJECT":"Chart marks","TITLE":"Biodiversity is Flourishing in the Thames","SOURCE":"Beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/144-biodiversity-river-thames/"},
+            {"OBJECT":"Chart legends","TITLE":"Decline in Ridership on Metrorail","SOURCE":"Postgraphics","url":"https://twitter.com/PostGraphics/status/1383122111988969473/photo/1"},
+            {"OBJECT":"Caption","TITLE":"Listen to Her:Gender on This American Life","SOURCE":"The Pudding","url":"https://pudding.cool/2017/09/this-american-life/"},
+            {"OBJECT":"Background","TITLE":"One-Hit Wonders in Sports","SOURCE":"The Pudding","url":"https://pudding.cool/2018/04/one-hit-wonders/"}
+        ]
+    },
+    {
+        "card_id": 29,
+        "card_title": "加强序列化呈现",
+        "VNS_tag": "trend",
+        "EL_tag": "填充渐变的纹理",
+        "how": "为装饰目标填充渐变纹理。",
+        "why": "它能够提供有关趋势的心理图式。",
+        "eg_content":["chart-axis","chart-marks","background"],
+        "eg_back_data":[
+            {"OBJECT":"Chart axis","TITLE":"Why biggest isn’t fastest in the animal kingdom","SOURCE":"Economist","url":"https://www.economist.com/graphic-detail/2017/07/26/why-biggest-isnt-fastest-in-the-animal-kingdom"},
+            {"OBJECT":"Chart marks","TITLE":"Migration in the Census and in the News","SOURCE":"Imformation is Beautiful","url":"https://www.informationisbeautifulawards.com/news/221-the-categories-humanitarian-global"},
+            {"OBJECT":"Background","TITLE":"Tiere In Zahlen","SOURCE":"Behance","url":"https://www.behance.net/gallery/117973643/KULTURAUSTAUSCH-Tiere-In-Zahlen"}
+        ]
+    },
+    {
+        "card_id": 30,
+        "card_title": "加强序列化呈现",
+        "VNS_tag": "trend",
+        "EL_tag": "逐渐放大元素",
+        "how": "逐渐放大元素。",
+        "why": "它能够提供有关趋势的心理图式。",
+        "eg_content":["chart-marks"],
+        "eg_back_data":[
+            {"OBJECT":"Chart marks","TITLE":"What Makes LeBron James So Great","SOURCE":"Fivethirtyeight","url":"https://www.youtube.com/watch?v=zwOoSoZgsD0"}
+        ]
+    },
+    {
+        "card_id": 31,
+        "card_title": "添加视觉辅助",
+        "VNS_tag": "trend",
+        "EL_tag": "添加遮挡图形",
+        "how": "添加遮挡图形以省略次要区域，突出顶端。",
+        "why": "这一类序列化的视觉辅助有明确的方向性和引导性。",
+        "eg_content":["chart-marks"],
+        "eg_back_data":[
+            {"OBJECT":"Chart marks","TITLE":"How Rigid Is The Middle Class in The US, Really?","SOURCE":"The Pudding","url":"https://pudding.cool/2020/08/income/"}
+        ]
+    },
+    {
+        "card_id": 32,
+        "card_title": "添加视觉辅助",
+        "VNS_tag": "trend",
+        "EL_tag": "添加趋势参考线",
+        "how": "添加趋势参考线。",
+        "why": "这一类序列化的视觉辅助有明确的方向性和引导性。",
+        "eg_content":["chart-marks"],
+        "eg_back_data":[
+            {"OBJECT":"Chart marks","TITLE":"Shipping logs show how quickly Arctic sea ice is melting","SOURCE":"Economist","url":"https://www.economist.com/graphic-detail/2019/08/13/shipping-logs-show-how-quickly-arctic-sea-ice-is-melting"}
+        ]
+    },
+    {
+        "card_id": 33,
+        "card_title": "添加视觉辅助",
+        "VNS_tag": "trend",
+        "EL_tag": "添加趋势箭头",
+        "how": "添加趋势箭头。",
+        "why": "这一类序列化的视觉辅助有明确的方向性和引导性。",
+        "eg_content":["title","chart-axis","chart-marks","chart-legends","caption","background"],
+        "eg_back_data":[
+            {"OBJECT":"Title","TITLE":"Our house-price forecast expects the global rally to lose steam","SOURCE":"Economist","url":"https://www.economist.com/graphic-detail/2021/04/10/our-house-price-forecast-expects-the-global-rally-to-lose-steam"},
+            {"OBJECT":"Chart axis","TITLE":"How sports owners pay less taxes than athletes","SOURCE":"Propublica","url":"https://flowingdata.com/2021/07/08/how-sports-owners-pay-less-taxes-than-athletes/"},
+            {"OBJECT":"Chart marks","TITLE":"Texas's power disaster is a warning sign for the US","SOURCE":"Vox","url":"https://www.youtube.com/watch?v=Zcrsgdl_hP0"},
+            {"OBJECT":"Chart legends","TITLE":"How Joe Biden Won the U.S. Presidential Election","SOURCE":"Reuters","url":"https://graphics.reuters.com/USA-ELECTION/RESULTS/jznvnjyjzvl/index.html"},
+            {"OBJECT":"Caption","TITLE":"China’s roads and workplaces seem to be getting less lethal","SOURCE":"Economist","url":"https://www.economist.com/graphic-detail/2017/02/08/chinas-roads-and-workplaces-seem-to-be-getting-less-lethal"},
+            {"OBJECT":"Background","TITLE":"Simple Oral Rehydration Therapy Has Saved Millions of Lives Around the World","SOURCE":"Beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/47-oral-rehydration-therapy/"}
+        ]
+    },
+    {
+        "card_id": 34,
+        "card_title": "排版展示序列",
+        "VNS_tag": "trend",
+        "EL_tag": "按照金字塔形排列",
+        "how": "将序列性元素排列成金字塔形。",
+        "why": "它能够提供直观的视觉冲击，符合人们对序列的感知习惯。",
+        "eg_content":["chart-marks"],
+        "eg_back_data":[
+            {"OBJECT":"Chart marks","TITLE":"Marvel Characters With The Highest Film Kill Counts","SOURCE":"Dailyinfographic","url":"https://www.dailyinfographic.com/marvel-kill-counts"}
+        ]
+    },
+    {
+        "card_id": 35,
+        "card_title": "排版展示序列",
+        "VNS_tag": "trend",
+        "EL_tag": "按照螺旋形排列",
+        "how": "将序列性元素按照螺旋形排列。",
+        "why": "它能够提供直观的视觉冲击，符合人们对序列的感知习惯。",
+        "eg_content":["chart-marks"],
+        "eg_back_data":[
+            {"OBJECT":"Chart marks","TITLE":"Coinbase CEO Takes Crypto Exchange Public After Bringing Bitcoin to Masses","SOURCE":"WSJ Graphics","url":"https://twitter.com/WSJGraphics/status/1382371618643714056"}
+        ]
+    },
+    {
+        "card_id": 36,
+        "card_title": "排版展示序列",
+        "VNS_tag": "trend",
+        "EL_tag": "按照Z字形排列",
+        "how": "将序列性元素按照Z字形排列",
+        "why": "它能够提供直观的视觉冲击，符合人们对序列的感知习惯。",
+        "eg_content":["chart-axis"],
+        "eg_back_data":[
+            {"OBJECT":"Chart axis","TITLE":"The Emotional GIF Range of Celebs","SOURCE":"The Pudding","url":"https://pudding.cool/2020/03/gifs/"}
+        ]
+    },
+    {
+        "card_id": 37,
+        "card_title": "改变目标样式",
+        "VNS_tag": "association",
+        "EL_tag": "给趋势线两侧添加填充",
+        "how": "沿趋势线或给趋势线两侧添加填充。",
+        "why": "它能够通过区分样式展现数据洞见，并给出有关下一步探究的提示。",
+        "eg_content":["chart-marks","background"],
+        "eg_back_data":[
+            {"OBJECT":"Chart marks","TITLE":"Diseases like covid-19 are deadlier in non-democracies","SOURCE":"Economist","url":"https://www.economist.com/graphic-detail/2020/02/18/diseases-like-covid-19-are-deadlier-in-non-democracies"},
+            {"OBJECT":"Background","TITLE":"Listen to Her:Gender on This American Life","SOURCE":"The Pudding","url":"https://pudding.cool/2017/09/this-american-life/"}
+        ]
+    },
+    {
+        "card_id": 38,
+        "card_title": "添加剪切图像",
+        "VNS_tag": "comprehension",
+        "EL_tag": "添加图标/剪贴画/照片",
+        "how": "添加图标/剪贴画/照片到底部。",
+        "why": "剪切图像能够活跃图面，并且容易与各类元素形成关联。",
+        "eg_content":["chart-marks"],
+        "eg_back_data":[
+            {"OBJECT":"Chart marks","TITLE":"The Historical Cost of Light","SOURCE":"the pudding","url":"https://pudding.cool/2020/12/lighting-cost/"}
+        ]
+    },
+    {
+        "card_id": 39,
+        "card_title": "添加剪切图像",
+        "VNS_tag": "comprehension",
+        "EL_tag": "添加图标/剪贴画/照片",
+        "how": "添加图标/剪贴画/照片到头部。",
+        "why": "剪切图像能够活跃图面，并且容易与各类元素形成关联。",
+        "eg_content":["title","chart-axis","chart-marks","chart-legends","caption"],
+        "eg_back_data":[
+            {"OBJECT":"Title","TITLE":"Talking heads","SOURCE":"reuters","url":"https://graphics.reuters.com/USA-RUSSIA/010071702F8/index.html"},
+            {"OBJECT":"Chart axis","TITLE":"Rechargeable Batteries are Getting Better","SOURCE":"beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/1136-batteries-better/"},
+            {"OBJECT":"Chart marks","TITLE":"Global Tree Cover is Expanding","SOURCE":"beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/877-global-tree-cover/"},
+            {"OBJECT":"Chart legends","TITLE":"Why friends like sloppily wrapped gifts","SOURCE":"economist","url":"https://www.economist.com/graphic-detail/2019/12/25/why-friends-like-sloppily-wrapped-gifts"},
+            {"OBJECT":"Caption","TITLE":"Why biggest isn’t fastest in the animal kingdom","SOURCE":"economist","url":"https://www.economist.com/graphic-detail/2017/07/26/why-biggest-isnt-fastest-in-the-animal-kingdom"}
+        ]
+    },
+    {
+        "card_id": 40,
+        "card_title": "添加剪切图像",
+        "VNS_tag": "comprehension",
+        "EL_tag": "添加图标/剪贴画/照片",
+        "how": "添加图标/剪贴画/照片到上盖。",
+        "why": "剪切图像能够活跃图面，并且容易与各类元素形成关联。",
+        "eg_content":["chart-marks"],
+        "eg_back_data":[
+            {"OBJECT":"Chart marks","TITLE":"Do You Buy That … Ranked-Choice Voting Could Change The Outcome Of The NYC Mayoral Race?","SOURCE":"fivethirtyeight","url":"https://www.youtube.com/watch?v=epGltA0m5Ak"}
+        ]
+    },
+    {
+        "card_id": 41,
+        "card_title": "添加剪切图像",
+        "VNS_tag": "comprehension",
+        "EL_tag": "添加图标/剪贴画/照片",
+        "how": "添加图标/剪贴画/照片到端部。",
+        "why": "剪切图像能够活跃图面，并且容易与各类元素形成关联。",
+        "eg_content":["chart-axis","chart-marks","caption"],
+        "eg_back_data":[
+            {"OBJECT":"Chart axis","TITLE":"Soy&Oat Milk Are the Most Sustainable","SOURCE":"beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/1040-soy-oat-milk/"},
+            {"OBJECT":"Chart marks","TITLE":"What Makes LeBron James So Great","SOURCE":"fivethirtyeight","url":"https://www.youtube.com/watch?v=zwOoSoZgsD0"},
+            {"OBJECT":"Caption","TITLE":"10 Things Everyone Hates About You","SOURCE":"the pudding","url":"https://pudding.cool/2017/12/hater/"}
+        ]
+    },
+    {
+        "card_id": 42,
+        "card_title": "添加剪切图像",
+        "VNS_tag": "comprehension",
+        "EL_tag": "添加图标/剪贴画/照片",
+        "how": "添加图标/剪贴画/照片到侧面。",
+        "why": "剪切图像能够活跃图面，并且容易与各类元素形成关联。",
+        "eg_content":["title","chart-axis","chart-marks","chart-legends","caption","background"],
+        "eg_back_data":[
+            {"OBJECT":"Title","TITLE":"Breaking News: Gonzaga edged UCLA, 93-90, and will play Baylor for the national title","SOURCE":"nyt","url":"https://twitter.com/NYTSports/status/1378546586880520195/photo/1"},
+            {"OBJECT":"Chart axis","TITLE":"How Rigid Is The Middle Class in The US, Really?","SOURCE":"the pudding","url":"https://pudding.cool/2020/08/income/"},
+            {"OBJECT":"Chart marks","TITLE":"The Potential of Wind Power is Amazing","SOURCE":"beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/1130-wind-power-potential/"},
+            {"OBJECT":"Chart legends","TITLE":"What If All The Ice Melted?","SOURCE":"reuters","url":"https://graphics.reuters.com/CLIMATECHANGE-GREENLAND-SEALEVELS/010080F60WR/index.html"},
+            {"OBJECT":"Caption","TITLE":"The Birthday Paradox Experiment ","SOURCE":"the pudding","url":"https://pudding.cool/2018/04/birthday-paradox/"},
+            {"OBJECT":"Background","TITLE":"American History-Alcohol ","SOURCE":"pinterest","url":"https://www.pinterest.com/pin/374854368978085187/"}
+        ]
+    },
+    {
+        "card_id": 43,
+        "card_title": "添加剪切图像",
+        "VNS_tag": "comprehension",
+        "EL_tag": "添加图标/剪贴画/照片",
+        "how": "用剪切图像的部分代替数值元素。",
+        "why": "剪切图像能够活跃图面，并且容易与各类元素形成关联。",
+        "eg_content":["chart-marks"],
+        "eg_back_data":[
+            {"OBJECT":"Chart marks","TITLE":"The Forgotten Events","SOURCE":"reuters","url":"https://graphics.reuters.com/OLYMPICS-2020/HISTORY/oakpedqbgvr/index.html"}
+        ]
+    },
+    {
+        "card_id": 44,
+        "card_title": "添加剪切图像",
+        "VNS_tag": "comprehension",
+        "EL_tag": "添加图标/剪贴画/照片",
+        "how": "用剪切图像代替数值元素。",
+        "why": "剪切图像能够活跃图面，并且容易与各类元素形成关联。",
+        "eg_content":["chart-axis","chart-marks","caption"],
+        "eg_back_data":[
+            {"OBJECT":"Chart axis","TITLE":"Speed and Trust","SOURCE":"reuters","url":"https://graphics.reuters.com/HEALTH-CORONAVIRUS/VACCINE-ROLLOUT/rlgvdegqqpo/index.html"},
+            {"OBJECT":"Chart marks","TITLE":"Floating Giant","SOURCE":"wsj","url":"https://twitter.com/WSJGraphics/status/1297891401380888577"},
+            {"OBJECT":"Caption","TITLE":"The Timing of Baby Making","SOURCE":"the pudding","url":"https://pudding.cool/2017/05/births/"}
+        ]
+    },
+    {
+        "card_id": 45,
+        "card_title": "添加剪切图像",
+        "VNS_tag": "comprehension",
+        "EL_tag": "添加图标/剪贴画/照片",
+        "how": "切分元素后替换为剪切图像。",
+        "why": "剪切图像能够活跃图面，并且容易与各类元素形成关联。",
+        "eg_content":["chart-axis","chart-marks"],
+        "eg_back_data":[
+            {"OBJECT":"Chart axis","TITLE":"Speed and Trust","SOURCE":"reuters","url":"https://graphics.reuters.com/HEALTH-CORONAVIRUS/VACCINE-ROLLOUT/rlgvdegqqpo/index.html"},
+            {"OBJECT":"Chart marks","TITLE":"Breaking Dad","SOURCE":"dailyinfographic","url":"https://www.dailyinfographic.com/fathers-day-facts"}
+        ]
+    },
+    {
+        "card_id": 46,
+        "card_title": "添加剪切图像",
+        "VNS_tag": "comprehension",
+        "EL_tag": "添加图标/剪贴画/照片",
+        "how": "区分元素后用剪切图像代替数值元素。",
+        "why": "剪切图像能够活跃图面，并且容易与各类元素形成关联。",
+        "eg_content":["chart-marks"],
+        "eg_back_data":[
+            {"OBJECT":"Chart marks","TITLE":"Norway Recycles Almost All of Their Plastic Bottles","SOURCE":"beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/1041-norway-plastic-bottles/"}
+        ]
+    },
+    {
+        "card_id": 47,
+        "card_title": "添加剪切图像",
+        "VNS_tag": "comprehension",
+        "EL_tag": "添加图标/剪贴画/照片",
+        "how": "切分并区分元素后替换为剪切图像。",
+        "why": "剪切图像能够活跃图面，并且容易与各类元素形成关联。",
+        "eg_content":["chart-marks"],
+        "eg_back_data":[
+            {"OBJECT":"Chart marks","TITLE":"Almost Half of New Cars Sold in Norway Are Electric","SOURCE":"beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/1069-norway-electric-cars/"}
+        ]
+    },
+    {
+        "card_id": 48,
+        "card_title": "添加蒙版图层",
+        "VNS_tag": "comprehension",
+        "EL_tag": "添加剪贴画/照片",
+        "how": "使用背景蒙版。",
+        "why": "它一方面能够保留元素的完整形状，另一方面还能够提供图像信息。",
+        "eg_content":["title","chart-marks","background"],
+        "eg_back_data":[
+            {"OBJECT":"Title","TITLE":"Where Are You Most Likely To Spot UFOs?","SOURCE":"dailyinfographic","url":"https://www.dailyinfographic.com/ufo-sightings-ranked"},
+            {"OBJECT":"Chart marks","TITLE":"10 Things Everyone Hates About You","SOURCE":"the pudding","url":"https://pudding.cool/2017/12/hater/"},
+            {"OBJECT":"Background","TITLE":"David Cameron is Britain’s most disliked politician","SOURCE":"Who does the most in your household?","url":"https://www.economist.com/graphic-detail/2017/10/05/who-does-the-most-in-your-household"}
+        ]
+    },
+    {
+        "card_id": 49,
+        "card_title": "添加蒙版图层",
+        "VNS_tag": "comprehension",
+        "EL_tag": "添加剪贴画/照片",
+        "how": "背景蒙版与半透明图表结合。",
+        "why": "它一方面能够保留元素的完整形状，另一方面还能够提供图像信息。",
+        "eg_content":["title","chart-marks","background"],
+        "eg_back_data":[
+            {"OBJECT":"Title","TITLE":"The Dutch city of Utrecht has covered 300 bus stops","SOURCE":"beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/1074-bus-stop-plants/"},
+            {"OBJECT":"Chart marks","TITLE":"Older Voters in Florida Could Be Key to the 2020 Election","SOURCE":"wsj","url":"https://www.wsj.com/graphics/election-2020-florida-older-voters/?mod=e2twg"},
+            {"OBJECT":"Background","TITLE":"Donald Trump’s dim decision to scrap Obama-era lightbulb rules","SOURCE":"Where Donald Trump lost the debate","url":"https://www.economist.com/graphic-detail/2016/09/29/where-donald-trump-lost-the-debate"}
+        ]
+    },
+    {
+        "card_id": 50,
+        "card_title": "添加蒙版图层",
+        "VNS_tag": "comprehension",
+        "EL_tag": "添加剪贴画/照片",
+        "how": "在图表一侧添加图片。",
+        "why": "它一方面能够保留元素的完整形状，另一方面还能够提供图像信息。",
+        "eg_content":["chart-marks"],
+        "eg_back_data":[
+            {"OBJECT":"Chart marks","TITLE":"Tiere In Zahlen","SOURCE":"behance","url":"https://www.behance.net/gallery/117973643/KULTURAUSTAUSCH-Tiere-In-Zahlen"}
+        ]
+    },
+    {
+        "card_id": 51,
+        "card_title": "添加蒙版图层",
+        "VNS_tag": "comprehension",
+        "EL_tag": "添加剪贴画/照片",
+        "how": "图表的部分叠加在图片上。",
+        "why": "它一方面能够保留元素的完整形状，另一方面还能够提供图像信息。",
+        "eg_content":["chart-marks"],
+        "eg_back_data":[
+            {"OBJECT":"Chart marks","TITLE":"Do You Buy That … Ranked-Choice Voting Could Change The Outcome Of The NYC Mayoral Race?","SOURCE":"fivethirtyeight","url":"https://www.youtube.com/watch?v=epGltA0m5Ak"}
+        ]
+    },
+    {
+        "card_id":52,
+        "card_title": "添加蒙版图层",
+        "VNS_tag": "comprehension",
+        "EL_tag": "添加剪贴画/照片",
+        "how": "使用整体图表蒙版。",
+        "why": "它一方面能够保留元素的完整形状，另一方面还能够提供图像信息。",
+        "eg_content":["chart-marks"],
+        "eg_back_data":[
+            {"OBJECT":"Chart marks","TITLE":"Oil Spills Have Decreased","SOURCE":"beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/1276-oil-spills-decreased/"}
+        ]
+    },
+    {
+        "card_id": 53,
+        "card_title": "添加蒙版图层",
+        "VNS_tag": "comprehension",
+        "EL_tag": "添加剪贴画/照片",
+        "how": "使用独立图表蒙版。",
+        "why": "它一方面能够保留元素的完整形状，另一方面还能够提供图像信息。",
+        "eg_content":["chart-marks"],
+        "eg_back_data":[
+            {"OBJECT":"Chart marks","TITLE":"The Largest Vocabulary In Hip Hop","SOURCE":"the pudding","url":"https://pudding.cool/projects/vocabulary/"}
+        ]
+    },
+    {
+        "card_id": 54,
+        "card_title": "通过色彩展现",
+        "VNS_tag": "emotion",
+        "EL_tag": "选用单一色彩",
+        "how": "用单一色彩传递统一情绪。",
+        "why": "人们长期生活在一个色彩环境中，积累了许多视觉经验，这些经验与某种色彩刺激发生呼应时，就会激发某种情绪。",
+        "eg_content":["all1","all2","all3","all4","all5","all6"],
+        "eg_back_data":[
+            {"OBJECT":"ALL","TITLE":"The volume has been turned up on everything’: Pandemic places alarming pressure on transgender mental health","SOURCE":"postgraphics","url":"https://twitter.com/PostGraphics/status/1295836405546078218/photo/1"},
+            {"OBJECT":"ALL","TITLE":"Extreme Poverty is Almost Eradicated in the East Asia&Pacific Region","SOURCE":"beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/72-poverty-east-asia/"},
+            {"OBJECT":"ALL","TITLE":"Even A Small Portion of Fruit or Vegetables Every Day Can Prevent Diabetes","SOURCE":"beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/1395-fruit-veg-diabetes/"},
+            {"OBJECT":"ALL","TITLE":"Colleges want students to get a coronavirus vaccine. But they’re split on requiring the shots","SOURCE":"postgraphics","url":"https://www.washingtonpost.com/education/2021/06/23/colleges-covid-vaccine-mandates-divide/?utm_medium=social&utm_campaign=wp_graphics&utm_source=twitter"},
+            {"OBJECT":"ALL","TITLE":"Norway Recycles Almost All of Their Plastic Bottles","SOURCE":"beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/1041-norway-plastic-bottles/"},
+            {"OBJECT":"ALL","TITLE":"20 million Americans didn’t vote in 2016′s closest battlegrounds","SOURCE":"postgraphics","url":"https://twitter.com/PostGraphics/status/1323405807107612673/photo/1"}
+        ]
+    },
+    {
+        "card_id": 55,
+        "card_title": "通过色彩展现",
+        "VNS_tag": "emotion",
+        "EL_tag": "选用多种色彩",
+        "how": "用两种色彩传递对比或冲突情绪。",
+        "why": "人们长期生活在一个色彩环境中，积累了许多视觉经验，这些经验与某种色彩刺激发生呼应时，就会激发某种情绪。",
+        "eg_content":["all1","all2","all3","all4","all5","all6"],
+        "eg_back_data":[
+            {"OBJECT":"ALL","TITLE":"Numerous Countries Are Banning the Use of Wild Animals in Circuses","SOURCE":"beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/124-animals-in-circuses/"},
+            {"OBJECT":"ALL","TITLE":"Simple Oral Rehydration Therapy Has Saved Millions of Lives Around the World","SOURCE":"beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/47-oral-rehydration-therapy/"},
+            {"OBJECT":"ALL","TITLE":"More Populations of Large Sea Turtles Are Improving vs Declining","SOURCE":"beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/127-sea-turtles/"},
+            {"OBJECT":"ALL","TITLE":"The Average US Citizen Now Lives Much Longer After Retirement","SOURCE":"beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/705-life-beyond-retirement/"},
+            {"OBJECT":"ALL","TITLE":"Women's Pockets are Inferior.","SOURCE":"the pudding","url":"https://pudding.cool/2018/08/pockets/"},
+            {"OBJECT":"ALL","TITLE":"2020 Census shows U.S. population grew at slowest pace since the 1930s","SOURCE":"postgraphics","url":"https://twitter.com/washingtonpost/status/1387128024567529476/photo/1"}
+        ]
+    },
+    {
+        "card_id": 56,
+        "card_title": "通过色彩展现",
+        "VNS_tag": "emotion",
+        "EL_tag": "选用多种色彩",
+        "how": "用多种色彩传递复杂情绪。",
+        "why": "人们长期生活在一个色彩环境中，积累了许多视觉经验，这些经验与某种色彩刺激发生呼应时，就会激发某种情绪。",
+        "eg_content":["all1","all2","all3","all4","all5","all6"],
+        "eg_back_data":[
+            {"OBJECT":"ALL","TITLE":"Covid-19's Toll Felt Around The Country as Deaths Reach 150,000","SOURCE":"postgraphics","url":"https://twitter.com/PostGraphics/status/1289553583306706944/photo/1"},
+            {"OBJECT":"ALL","TITLE":"How Denmark Will Be Carbon Neutral","SOURCE":"beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/743-denmark-carbon-neutral/"},
+            {"OBJECT":"ALL","TITLE":"Get Out Of Your Geographic Music Bubble","SOURCE":"the pudding","url":"https://pudding.cool/2021/04/music-bubble/"},
+            {"OBJECT":"ALL","TITLE":"Foreign Aid Has Exploded","SOURCE":"beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/80-foreign-aid/"},
+            {"OBJECT":"ALL","TITLE":"Violent Islamist groups are gaining strength in Africa","SOURCE":"Our German election poll tracker","url":"https://www.economist.com/graphic-detail/2017/08/11/our-german-election-poll-tracker"},
+            {"OBJECT":"ALL","TITLE":"Millions of Children's Lives Have Been Saved","SOURCE":"beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/595-childrens-lives-saved/"}
+        ]
+    },
+    {
+        "card_id": 57,
+        "card_title": "通过图像展现",
+        "VNS_tag": "emotion",
+        "EL_tag": "添加标志/图标/剪贴画",
+        "how": "填充形成特殊图像。",
+        "why": "图像本身能够传达丰富的语义信息，而且能够使观众产生强烈的情感。",
+        "eg_content":["chart-marks"],
+        "eg_back_data":[
+            {"OBJECT":"Chart marks","TITLE":"It's Legal to be Homosexual in the Majority of the World's Countries","SOURCE":"beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/558-legal-homosexuality/"}
+        ]
+    },
+    {
+        "card_id": 58,
+        "card_title": "通过图像展现",
+        "VNS_tag": "emotion",
+        "EL_tag": "添加标志/图标/剪贴画",
+        "how": "添加带有表情的图像。",
+        "why": "图像本身能够传达丰富的语义信息，而且能够使观众产生强烈的情感。",
+        "eg_content":["chart-marks","caption","background"],
+        "eg_back_data":[
+            {"OBJECT":"Chart marks","TITLE":"Do You Buy That ... President Joe Biden Can Unite The Country? ","SOURCE":"fivethirtyeight","url":"https://www.youtube.com/watch?v=QBD-PC880Iw"},
+            {"OBJECT":"Caption","TITLE":"10 Things Everyone Hates About You","SOURCE":"the pudding","url":"https://pudding.cool/2017/12/hater/"},
+            {"OBJECT":"Background","TITLE":"10 Things Everyone Hates About You","SOURCE":"the pudding","url":"https://pudding.cool/2017/12/hater/"}
+        ]
+    },
+    {
+        "card_id": 59,
+        "card_title": "通过图像展现",
+        "VNS_tag": "emotion",
+        "EL_tag": "添加标志/图标/剪贴画",
+        "how": "添加带有动作的图像。",
+        "why": "图像本身能够传达丰富的语义信息，而且能够使观众产生强烈的情感。",
+        "eg_content":["chart-marks"],
+        "eg_back_data":[
+            {"OBJECT":"Chart marks","TITLE":"Fidel Castro, 1926-2016","SOURCE":"economist","url":"https://www.economist.com/graphic-detail/2016/11/26/fidel-castro-1926-2016"}
+        ]
+    },
+    {
+        "card_id": 60,
+        "card_title": "应用漫画风格",
+        "VNS_tag": "style",
+        "EL_tag": "使用手绘线条",
+        "how": "使用手绘线条的绘制方式。",
+        "why": "它能够营造随性、率真、活泼的感觉，是一种能够提供亲近感的视觉主题。",
+        "eg_content":["all1","all2","all3","all4"],
+        "eg_back_data":[
+            {"OBJECT":"ALL","TITLE":"Republicans Can Govern Without Winning A Majority. That Threatens Our Democracy.","SOURCE":"fivethirtyeight","url":"https://www.youtube.com/watch?v=li-n4l_474g"},
+            {"OBJECT":"ALL","TITLE":"When Will Your Parents Die? The Factors That Make the Difference in America","SOURCE":"the guardian","url":"https://www.theguardian.com/news/datablog/2020/jan/19/poor-and-black-americans-more-likely-to-experience-death-parent-younger-age?utm_source=dlvr.it&utm_medium=twitter"},
+            {"OBJECT":"ALL","TITLE":"How Ricky Williams’s infamous contract got made","SOURCE":"fivethirtyeight","url":"https://www.youtube.com/watch?v=mMyPwdgLJKs"},
+            {"OBJECT":"ALL","TITLE":"Understanding Brexit: The Event that Led to UK to a Brexit Impasse","SOURCE":"reuters","url":"https://graphics.reuters.com/BRITAIN-EU/0100B2EP1LV/index.html"}
+        ]
+    },
+    {
+        "card_id": 61,
+        "card_title": "应用Q版风格",
+        "VNS_tag": "style",
+        "EL_tag": "使用粗描边、断点、偏移填充",
+        "how": "使用粗描边、断点、偏移填充的绘制方式。",
+        "why": "它简洁可爱，识别度高，能够给用户提供轻松愉悦的感受。",
+        "eg_content":["all1"],
+        "eg_back_data":[
+            {"OBJECT":"ALL","TITLE":"","SOURCE":"zhanku","url":"https://www.hellorf.com/image/search?q=MBE%20data"}
+        ]
+    },
+    {
+        "card_id": 62,
+        "card_title": "应用流体渐变风格",
+        "VNS_tag": "style",
+        "EL_tag": "使用渐变颜色",
+        "how": "使用渐变颜色的绘制方式。",
+        "why": "它层次丰富，时尚感强，视觉表达效果好。",
+        "eg_content":["all1","all2","all3","all4"],
+        "eg_back_data":[
+            {"OBJECT":"ALL","TITLE":"Most One-Year-Olds Are Vaccinated Against Three Lethal Diseases","SOURCE":"beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/748-one-year-olds-vaccinated/"},
+            {"OBJECT":"ALL","TITLE":"Rhino Populations Are Growing","SOURCE":"beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/1320-rhino-populations/"},
+            {"OBJECT":"ALL","TITLE":"Combining Solar Panel Technologies Could Boost Energy Production by a Third","SOURCE":"beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/1343-super-solar-panels/"},
+            {"OBJECT":"ALL","TITLE":"Mountain Gorilla Populations Are Rising","SOURCE":"beautifulnews","url":"https://informationisbeautiful.net/beautifulnews/803-gorilla-populations-rising/"}
+        ]
+    },
+    {
+        "card_id": 63,
+        "card_title": "应用半扁平化风格",
+        "VNS_tag": "style",
+        "EL_tag": "加深局部、阴影",
+        "how": "使用加深局部、阴影的绘制方式。",
+        "why": "它在简约感和真实感之间达到了一种平衡，适量渐变阴影的使用，在保留其简约风格的基础上，使扁平化设计更加复杂和写实化。",
+        "eg_content":["all1","all2","all3","all4"],
+        "eg_back_data":[
+            {"OBJECT":"ALL","TITLE":"Tiere In Zahlen","SOURCE":"behance","url":"https://www.behance.net/gallery/117973643/KULTURAUSTAUSCH-Tiere-In-Zahlen"},
+            {"OBJECT":"ALL","TITLE":"Do You Buy That ... President Joe Biden Can Unite The Country? ","SOURCE":"fivethirtyeight","url":"https://www.youtube.com/watch?v=QBD-PC880Iw"},
+            {"OBJECT":"ALL","TITLE":"Techlash? America's Growing Concern with Major Technology Companies","SOURCE":"behance","url":"https://www.behance.net/gallery/93899355/GALLUP-KNIGHT-FOUNDATION-Techlash/modules/542549455"},
+            {"OBJECT":"ALL","TITLE":"Tiere In Zahlen","SOURCE":"behance","url":"https://www.behance.net/gallery/117973643/KULTURAUSTAUSCH-Tiere-In-Zahlen"}
+        ]
+    },
+    {
+        "card_id": 64,
+        "card_title": "应用写实拟物风格",
+        "VNS_tag": "style",
+        "EL_tag": "使用照片",
+        "how": "使用照片参与绘制。",
+        "why": "它在电脑上模拟真实物理世界的观感，能够引导用户习惯性的联想到现实物体，降低学习成本。",
+        "eg_content":["all1","all2","all3","all4"],
+        "eg_back_data":[
+            {"OBJECT":"ALL","TITLE":"Here Is Europe’s Chocolate Consumption IN 2015","SOURCE":"imb","url":"https://www.informationisbeautifulawards.com/news/232-revealed-the-iib-awards-2017-longlist"},
+            {"OBJECT":"ALL","TITLE":"Data Cuisine","SOURCE":"imb","url":"https://www.informationisbeautifulawards.com/news/222-the-categories-unusual"},
+            {"OBJECT":"ALL","TITLE":"A Plastic Coral","SOURCE":"imb","url":"https://www.informationisbeautifulawards.com/news/438-the-shortlist-science-technology"},
+            {"OBJECT":"ALL","TITLE":"The categories: Humanitarian / global","SOURCE":"imb","url":"https://www.informationisbeautifulawards.com/news/221-the-categories-humanitarian-global"}
+        ]
+    }
+]

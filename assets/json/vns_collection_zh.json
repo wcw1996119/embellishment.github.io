@@ -1,0 +1,14 @@
+[
+    {"VNS_id":0,"VNS_tag":"exploration","VNS_tag_name":"普适性探索","VNS_color":"#ca5f5f","VNS_desc":"对目标的颜色、纹理、描边、形状等做修改.","VNS_num":8,"category":0},
+    {"VNS_id":1,"VNS_tag":"outlier","VNS_tag_name":"强调数值/极值/异常值","VNS_color":"#ea9081","VNS_desc":"在现有元素之外添加线框、色块、高亮、连接线等要素.\n给其他元素添加透明度.\n放大展示需要强调的元素.","VNS_num":10,"category":0},
+    {"VNS_id":2,"VNS_tag":"difference","VNS_tag_name":"对比差异/占比","VNS_color":"#efbd9c","VNS_desc":"将数据元素叠加展示.常使用底对齐和居中对齐手法.","VNS_num":1,"category":0},
+    {"VNS_id":3,"VNS_tag":"categorization","VNS_tag_name":"概括分类","VNS_color":"#e2cc6d","VNS_desc":"在现有元素之外添加线框、色块等要素.在此基础上区分颜色也很常见.","VNS_num":3,"category":0},
+    {"VNS_id":4,"VNS_tag":"distribution","VNS_tag_name":"概括分布","VNS_color":"#c0c96f","VNS_desc":"在现有元素之外添加线框、线条、符号等要素.\n限定元素的总体边界.\n","VNS_num":5,"category":0},
+    {"VNS_id":5,"VNS_tag":"trend","VNS_tag_name":"概括趋势/排序","VNS_color":"#799ea8","VNS_desc":"在颜色、纹理、大小等方面呈现序列化的渐变效果.\n添加箭头等辅助元素表达序列.\n按照具有强方向感的形状如金字塔形、螺旋形排列.","VNS_num":9,"category":0},
+    {"VNS_id":6,"VNS_tag":"association","VNS_tag_name":"概括相关性","VNS_color":"#48819b","VNS_desc":"对目标的颜色、纹理、描边、形状等做修改.","VNS_num":1,"category":0},
+    
+    {"VNS_id":7,"VNS_tag":"comprehension","VNS_tag_name":"提高理解力","VNS_color":"#706a91","VNS_desc":"添加剪切后的图像到元素的各个部位，形成对应关系.\n将图像添加到元素构建的蒙版中，融合成为一体.","VNS_num":16,"category":1},
+    {"VNS_id":8,"VNS_tag":"emotion","VNS_tag_name":"传递情感","VNS_color":"#706a91","VNS_desc":"使用色彩传递温暖、快乐、平和、冷静等情绪.\n借助图像自身的倾向性内容传递情感.","VNS_num":6,"category":1},
+
+    {"VNS_id":9,"VNS_tag":"style","VNS_tag_name":"改变风格","VNS_color":"#706a91","VNS_desc":"采用手绘线条描绘元素.\n采用粗描边加断点的方式，并且错开填充制造高亮效果.\n为扁平图形添加暗面和阴影.\n用现实照片替代元素.","VNS_num":5,"category":2}
+]
